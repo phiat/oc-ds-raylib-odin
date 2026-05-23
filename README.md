@@ -49,3 +49,16 @@ Must be run from the project root (shader file paths are relative).
 ## Adding 3D Models
 
 Replace the procedural draw functions in `render.odin` with `rl.DrawModel()` after loading `.glb`/`.obj` files exported from Blender via `rl.LoadModel()`.
+
+## Prompt
+
+```
+lets plan this out and build:  odin + raylib + top down vertical scrolling shooter
+with shaders, particle fx, 3d models for player and bosses (i will create in blender
+and add to project when needed, use proceedural graphics until then). hud with game
+stats, some power ups and a few types of enemies/obstacles.   control with
+wasd/arrows + j/k/l keys.  simple title/menu screen, 1-2 levels to start.  ask
+questions if needed. odin is installed odin version dev-2026-05-nightly.
+```
+
+**Tokens spent:** $1.09
